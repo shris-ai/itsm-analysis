@@ -1,0 +1,13 @@
+[project]
+name = "itsm-analysis"
+version = "0.1.0"
+description = "Analysis tools for ITSM"
+readme = "README.md"
+requires-python = ">=3.12"
+authors = [
+    { name = "Shristi Gautam", email = "shristigautam13@gmail.com" }
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
